@@ -8,4 +8,6 @@ int main(){
         soma = soma + i;
     } //Soma de números ímpares de a até 13
     printf("O valor da soma = %d\n",soma);
+
+    return 0;
 }
